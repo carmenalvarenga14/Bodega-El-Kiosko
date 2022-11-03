@@ -1,0 +1,20 @@
+header{
+    background-color: tomato;
+}
+.bodega{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+.bodega img {
+    width: 5%;
+    margin-top:2% ;
+}
+header ul{
+    display: flex;
+    justify-content: center;
+}
+header li {
+    list-style: none;
+    margin-right: 5%;
+}
