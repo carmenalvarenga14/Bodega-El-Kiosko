@@ -28,10 +28,12 @@ header li {
 }
 .comedores{
     display: flex;
+    width: 95%;
 }
 .comedores img{
     width: 80%;
     margin-left: 13%;
+    margin-right: 40px;
 }
 .comedores1{
     border: 1px solid;
@@ -39,16 +41,13 @@ header li {
 }
 .escritorios{
     display: flex;
-    width: 100%;
-}
-
-details {
-    width: 100%;
+    width: 94%;
 }
 
 .escritorios img{
-    width: 80%;
-    margin-left: 13%;
+    width: 60%;
+    margin-left: 20%;
+    margin-top: 15px;
 }
 .escritorios1 {
     border: 1px solid;
@@ -56,6 +55,7 @@ details {
 }
 .BANCAS{
     display: flex;
+
 }
 .BANCAS img{
     width: 80%;
@@ -83,4 +83,7 @@ h3{
     text-align: center;
     background-color: tomato;
     padding: 2%;  
+}
+summary{
+    list-style: none;
 }
