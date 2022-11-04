@@ -26,45 +26,44 @@ header li {
     list-style: none;
     margin-right: 5%;
 }
+
 .comedores{
     display: flex;
-    width: 95%;
+    width: 100%;
 }
 .comedores img{
-    width: 80%;
-    margin-left: 13%;
-    margin-right: 40px;
+    width: 100%;
 }
 .comedores1{
     border: 1px solid;
     margin: 1%;
+    width: 60%;
 }
 .escritorios{
     display: flex;
-    width: 94%;
+    width: 100%;
 }
 
 .escritorios img{
-    width: 60%;
-    margin-left: 20%;
-    margin-top: 15px;
+    width: 100%;
 }
 .escritorios1 {
     border: 1px solid;
     margin: 1%;
+    width: 60%;
+
 }
 .BANCAS{
     display: flex;
-
+    width: 100%;
 }
 .BANCAS img{
-    width: 80%;
-    margin-left: 13%;
+    width: 100%;
 }
 .bancas1{
     border: 1px solid;
     margin: 1%;
-    
+    width: 60%;
 }
 
 .comedores1 p{
