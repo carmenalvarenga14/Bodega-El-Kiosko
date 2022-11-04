@@ -1,3 +1,11 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+body{
+    margin: 5%;
+    margin-left: 5%;
+}
 header{
     background-color: tomato;
 }
@@ -17,4 +25,62 @@ header ul{
 header li {
     list-style: none;
     margin-right: 5%;
+}
+.comedores{
+    display: flex;
+}
+.comedores img{
+    width: 80%;
+    margin-left: 13%;
+}
+.comedores1{
+    border: 1px solid;
+    margin: 1%;
+}
+.escritorios{
+    display: flex;
+    width: 100%;
+}
+
+details {
+    width: 100%;
+}
+
+.escritorios img{
+    width: 80%;
+    margin-left: 13%;
+}
+.escritorios1 {
+    border: 1px solid;
+    margin: 1%;
+}
+.BANCAS{
+    display: flex;
+}
+.BANCAS img{
+    width: 80%;
+    margin-left: 13%;
+}
+.bancas1{
+    border: 1px solid;
+    margin: 1%;
+    
+}
+
+.comedores1 p{
+    text-align: center;
+}
+.escritorios1 p{
+    text-align: center;
+}
+.bancas1 p {
+    text-align: center;
+}
+h1{
+    text-align: center;
+}
+h3{
+    text-align: center;
+    background-color: tomato;
+    padding: 2%;  
 }
